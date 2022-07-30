@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/dropout1337/Plasmonix/Thanatos/issues">Report Bug</a>
+    <a href="https://github.com/Plasmonix/Thanatos/issues">Report Bug</a>
     |
-    <a href="https://github.com/dropout1337/Plasmonix/Thanatos/issues">Request Feature</a>
+    <a href="https://github.com/Plasmonix/Thanatos/issues">Request Feature</a>
 
 # `💿` `Downloading` 
 ```
